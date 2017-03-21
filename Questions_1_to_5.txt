@@ -1,14 +1,16 @@
 Q 1. What are Pull Requests used for?
-1
+Pull requests let you tell others about changes you've pushed to a GitHub repository.
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
-2
+GitHub Desktop, Git
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
-3
+"repo" is a project.
+local --- working on own comouter
+remote --- working on onlinein Github
 
 Q 4. Where would you find a local repo?
-
+you can find local repo in your own project
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
-
+it's depend on what you want to remian.
